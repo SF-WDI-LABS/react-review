@@ -9,6 +9,13 @@
 
 </details>
 
+<details>
+  <summary>What dependencies do we need to get started building a React Application?</summary>
+
+  `react`, `react-dom`, `webpack`, `webpack-dev-server`, `babel-core`, `babel-loader`, `babel-preset-react`
+
+</details>
+
 
 <details>
   <summary>What are 3 things we need to account for when defining our Webpack configuration?</summary>
