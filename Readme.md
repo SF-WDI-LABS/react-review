@@ -74,7 +74,7 @@
 
 </details>
 
-## React Building Components
+## Building Components Exercise
 
 **Instructions:**
 
